@@ -5,5 +5,5 @@
 
 This is my **README**, but here lies nothing *important* to read.
 Here my reference picture for the ASCII-art.
-![Image](usahana.webp)
+![Image](Usahana.webp)
 
