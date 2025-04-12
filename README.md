@@ -3,5 +3,7 @@
 ##### to 
 ### MajasREADME
 
-This is my **README**, but here lies *nothing* to read
+This is my **README**, but here lies nothing *important* to read.
+Here my reference picture for the ASCII-art.
+![Image](usahana.webp)
 
