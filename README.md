@@ -6,6 +6,7 @@
 ###WEEK 2
 This week I have worked on my game, way longer than I would have expected 😞. This doesn't mean that I had no fun tho! 
 To further underline the fun I had, here a picture of a character from my game :D
+
 ![Image](unicorn.gif)
 
 ###WEEK 1
