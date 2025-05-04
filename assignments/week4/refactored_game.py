@@ -25,6 +25,7 @@ def clearScreen():
 
 
 # Constants
+DEBUG = False
 OGRE_HEALTH = 250
 UNICORN_HEALTH = 100
 
