@@ -5,7 +5,7 @@
 ###WEEK 5
 This week I made smth Buffy related so here a matching gif :)
 
-![Image][spike.gif]
+![Image](spike.gif)
 
 ###WEEK 2
 This week I have worked on my game way longer than I would have expected 😞. This doesn't mean that I had no fun tho! 
